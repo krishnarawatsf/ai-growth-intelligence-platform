@@ -1,5 +1,7 @@
 # AI Growth Intelligence Platform
 
+![Decision System](Decision%20System.png)
+
 AI-native growth decision system for startups and digital businesses.
 
 ## Product Thesis
