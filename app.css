@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  color: #e5eefc;
+  background:
+    radial-gradient(circle at top left, rgba(125, 211, 252, 0.14), transparent 28%),
+    radial-gradient(circle at top right, rgba(253, 164, 175, 0.12), transparent 24%),
+    linear-gradient(180deg, #050816 0%, #0b1020 36%, #09101b 100%);
+  font-family: 'Space Grotesk', ui-sans-serif, system-ui;
+}
+
+.grid-noise {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.glass {
+  backdrop-filter: blur(18px);
+  background: linear-gradient(180deg, rgba(13, 20, 38, 0.92), rgba(12, 18, 34, 0.74));
+  border: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+.text-glow {
+  text-shadow: 0 0 28px rgba(125, 211, 252, 0.16);
+}
