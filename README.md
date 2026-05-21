@@ -1,3 +1,9 @@
+[![CI](https://github.com/krishnarawatsf/ai-growth-intelligence-platform/actions/workflows/python.yml/badge.svg)](https://github.com/krishnarawatsf/ai-growth-intelligence-platform/actions)
+[![License](https://img.shields.io/github/license/krishnarawatsf/ai-growth-intelligence-platform.svg)](https://github.com/krishnarawatsf/ai-growth-intelligence-platform/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/krishnarawatsf/ai-growth-intelligence-platform.svg)](https://github.com/krishnarawatsf/ai-growth-intelligence-platform/releases)
+[![codecov](https://codecov.io/gh/krishnarawatsf/ai-growth-intelligence-platform/branch/master/graph/badge.svg)](https://codecov.io/gh/krishnarawatsf/ai-growth-intelligence-platform)
+[![Dependabot status](https://img.shields.io/github/dependabot/krishnarawatsf/ai-growth-intelligence-platform.svg)](https://github.com/krishnarawatsf/ai-growth-intelligence-platform/network/alerts)
+
 # AI Growth Intelligence Platform
 
 ![Decision System](Decision%20System.png)
