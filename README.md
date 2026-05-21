@@ -333,3 +333,6 @@ If you want, the next iteration can be:
 - A database schema SQL file
 - A React/FastAPI starter scaffold
 - A portfolio case study write-up
+
+## Contributing
+Thanks for checking out this project — to contribute, open an issue describing the change, then submit a PR with tests where applicable. See `CONTRIBUTING.md` for more.
